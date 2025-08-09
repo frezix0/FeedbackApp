@@ -2,12 +2,6 @@
 
 Aplikasi lengkap untuk mengumpulkan, menyimpan, dan menganalisis feedback pengguna dengan analisis sentimen otomatis menggunakan AI sederhana.
 
-## 🚀 Demo
-
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:8000
-- **API Documentation**: http://localhost:8000/docs
-
 ## 🏗️ Tech Stack
 
 | Component    | Technology              | Purpose                     |
@@ -217,12 +211,6 @@ Aplikasi menggunakan TextBlob untuk analisis sentimen sederhana:
 - Production build optimization
 - Database migration support
 
-## 📚 Documentation
-
-- **[SETUP.md](SETUP.md)** - Panduan setup detail
-- **[FEATURES.md](FEATURES.md)** - Dokumentasi fitur lengkap
-- **[API Docs](http://localhost:8000/docs)** - Swagger documentation
-
 ## 🤝 Contributing
 
 1. Fork repository
@@ -230,20 +218,3 @@ Aplikasi menggunakan TextBlob untuk analisis sentimen sederhana:
 3. Commit changes
 4. Push to branch
 5. Create Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-Jika mengalami masalah:
-
-1. Cek [SETUP.md](SETUP.md) untuk troubleshooting
-2. Pastikan semua dependencies terinstall
-3. Cek console browser dan terminal untuk error messages
-4. Buka issue di repository
-
----
-
-**Dibuat dengan ❤️ menggunakan React, FastAPI, dan AI untuk analisis sentimen**
