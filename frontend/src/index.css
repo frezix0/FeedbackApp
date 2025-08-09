@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Custom primary colors */
+.bg-primary-500 {
+  background-color: #3b82f6;
+}
+
+.bg-primary-600 {
+  background-color: #2563eb;
+}
+
+.hover\:bg-primary-600:hover {
+  background-color: #2563eb;
+}
+
+.text-primary-500 {
+  color: #3b82f6;
+}
+
+.border-primary-500 {
+  border-color: #3b82f6;
+}
+
+.focus\:ring-primary-500:focus {
+  --tw-ring-color: #3b82f6;
+}
